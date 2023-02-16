@@ -1,6 +1,7 @@
 ﻿/*Jacob Broerman
  2/16/23
  Description: Console app that uses 2 methods to randomly populate an array with user input and take a summation of that array.
+ /*
 
 using System;
 
